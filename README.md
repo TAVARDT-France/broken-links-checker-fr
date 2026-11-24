@@ -1,14 +1,13 @@
 # Detecteur de Liens Morts et Erreurs 404
 
 [![Detecteur Liens Morts](https://img.shields.io/badge/TAVARDT-Broken%20Links-5b3cf5.svg)](https://tools.tavardt.com/fr/detecteur-liens-morts/)
-[![Juridiction](https://img.shields.io/badge/Juridiction-France-00C853.svg)](https://ag.tavardt.com/fr/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Audit automatique des hyperliens internes et externes et identification des codes d erreur HTTP.
 
-Developpe et maintenu par l equipe d audit technique de **[TAVARDT France](https://ag.tavardt.com/fr/)**.
+Developpe et maintenu par l equipe d audit technique de **TAVARDT France**.
 
----
+***
 
 ## Capacites d Analyse des Liens et Erreurs 404
 
@@ -18,7 +17,7 @@ Developpe et maintenu par l equipe d audit technique de **[TAVARDT France](https
 * **Controle des Libelles d Ancre**: Verification de la pertinence semantique des textes de liens pour l accessibilite.
 * **Indice de Sante des Liens**: Note de 0 a 100 avec synthese des URLs necessitant une correction urgente.
 
----
+***
 
 ## Installation et Utilisation
 
@@ -33,20 +32,20 @@ python broken_links_scanner.py https://entreprise.fr
 Sortie detaillee au format JSON:
 
 ```bash
-python broken_links_scanner.py https://entreprise.fr --json
+python broken_links_scanner.py https://entreprise.fr -json
 ```
 
----
+***
 
 ## Outil d Audit en Ligne
 
 Testez la validite de vos liens sur notre plateforme web:
 
-* **[Detecteur de Liens Morts Officiel](https://tools.tavardt.com/fr/detecteur-liens-morts/)**
+* **Detecteur de Liens Morts Officiel**
 * **[Portail TAVARDT France](https://ag.tavardt.com/fr/)**
 
----
+***
 
 ## Conseil Technique
 
-Pour un accompagnement conforme a Standards d Accessibilite et de Qualite Numerique W3C, sollicitez l expertise de **[TAVARDT France](https://ag.tavardt.com/fr/contact/)**.
+Pour un accompagnement conforme a Standards d Accessibilite et de Qualite Numerique W3C, sollicitez l expertise de **TAVARDT France**.
