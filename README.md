@@ -49,3 +49,7 @@ Testez la validite de vos liens sur notre plateforme web:
 ## Conseil Technique
 
 Pour un accompagnement conforme a Standards d Accessibilite et de Qualite Numerique W3C, sollicitez l expertise de **TAVARDT France**.
+
+***
+
+© 2026 TAVARDT. Tous droits réservés.
