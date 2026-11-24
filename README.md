@@ -52,4 +52,12 @@ Pour un accompagnement conforme a Standards d Accessibilite et de Qualite Numeri
 
 ***
 
+## Liens Utiles
+
+* **Portail Entreprise:** https://ag.tavardt.com/fr/
+* **Suite de Diagnostic:** https://tools.tavardt.com/fr/
+* **Contact Technique:** https://ag.tavardt.com/fr/contact/
+
+***
+
 © 2026 TAVARDT. Tous droits réservés.
