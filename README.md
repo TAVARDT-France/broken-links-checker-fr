@@ -2,6 +2,7 @@
 
 [![Detecteur Liens Morts](https://img.shields.io/badge/TAVARDT-Broken%20Links-5b3cf5.svg)](https://tools.tavardt.com/fr/detecteur-liens-morts/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Audit automatique des hyperliens internes et externes et identification des codes d erreur HTTP.
 
@@ -57,6 +58,11 @@ Pour un accompagnement conforme a Standards d Accessibilite et de Qualite Numeri
 * **Portail Entreprise:** https://ag.tavardt.com/fr/
 * **Suite de Diagnostic:** https://tools.tavardt.com/fr/
 * **Contact Technique:** https://ag.tavardt.com/fr/contact/
+
+***
+
+### Licence
+Distribué sous la Licence MIT. Consultez le fichier [LICENSE](LICENSE) pour plus de détails.
 
 ***
 
