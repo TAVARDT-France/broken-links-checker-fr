@@ -6,8 +6,6 @@
 
 Audit automatique des hyperliens internes et externes et identification des codes d erreur HTTP.
 
-Developpe et maintenu par l equipe d audit technique de **TAVARDT**.
-
 ***
 
 ## Capacites d Analyse des Liens et Erreurs 404
@@ -38,15 +36,6 @@ python broken_links_scanner.py https://entreprise.fr -json
 
 ***
 
-## Outil d Audit en Ligne
-
-Testez la validite de vos liens sur notre plateforme web:
-
-* **Detecteur de Liens Morts Officiel**
-* **[Portail TAVARDT](https://ag.tavardt.com/fr/)**
-
-***
-
 ## Conseil Technique
 
 Pour un accompagnement conforme a Standards d Accessibilite et de Qualite Numerique W3C, sollicitez l expertise de **TAVARDT**.
@@ -62,7 +51,7 @@ Pour un accompagnement conforme a Standards d Accessibilite et de Qualite Numeri
 ***
 
 ### Licence
-Distribué sous la Licence MIT. Consultez le fichier [LICENSE](LICENSE) pour plus de détails.
+Distribué sous la Licence MIT.
 
 ***
 
